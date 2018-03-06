@@ -26,6 +26,10 @@
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "node ./node_modules/vscode/bin/test"
     },
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/keyvan-m-sadeghi/indented.git"
+    },
     "devDependencies": {
         "typescript": "^2.6.1",
         "vscode": "^1.1.6",
