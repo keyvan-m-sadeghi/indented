@@ -2,8 +2,9 @@
     "name": "indented",
     "displayName": "indentED",
     "description": "replaces brace blocks with indent blocks",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "keyvan-m-sadeghi",
+    "icon": "images/indentED.png",
     "engines": {
         "vscode": "^1.20.0"
     },
