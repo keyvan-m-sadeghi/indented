@@ -2,7 +2,7 @@
     "name": "indented",
     "displayName": "indentED",
     "description": "replaces brace blocks with indent blocks",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "keyvan-m-sadeghi",
     "icon": "images/indentED.png",
     "engines": {
@@ -28,8 +28,8 @@
         "test": "node ./node_modules/vscode/bin/test"
     },
     "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/keyvan-m-sadeghi/indented.git"
+        "type": "git",
+        "url": "https://github.com/keyvan-m-sadeghi/indented"
     },
     "devDependencies": {
         "typescript": "^2.6.1",
